@@ -1,0 +1,163 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: fantasy;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    font-family: 'Sacramento';
+    margin-top: 0px;
+    color: cornsilk;
+    font-size: 6.25rem;
+    margin-bottom: 0;
+}
+
+p {
+   
+    font-family: 'Montserrat';
+    padding-bottom: 85px;
+}
+
+h2 {
+    color: #3c9d9b;
+}
+
+h3 {
+    color: #52de97;
+}
+
+.subtitulo {
+    margin-top: 4px;
+    font-size: 1.25rem;
+    color: cornsilk;
+    padding-bottom: 22px;
+    font-weight: normal;
+    line-height: 2;
+}
+
+.top-container {
+    background-color: #73c3f9;
+   /* background-color: #024788;*/
+    padding-top: 50px;
+}
+
+.middle-container {
+    background-color: #f2f9ff;
+}
+
+.bottom-container {
+    background-color: #73c3f9;
+    margin-top: 40px;
+}
+
+.top-cloud {
+    position: relative;
+    left: 290px
+} 
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+}
+
+.montanha {
+    position: relative;
+    top: 3px;
+}
+
+.fotoperfil {
+    padding-top: 84px;
+    height: 150px;
+}
+
+.skill-row {
+    width: 50%;
+    position: relative;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+    margin-bottom: 20px;
+}
+
+.primeiraimg {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.segundaimg {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.alinhado{
+    width: 36%;
+    margin: 0 auto;
+    padding-bottom: 65px;
+}
+
+hr {
+    color: gainsboro;
+    border-style: dotted;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    width: 5%;
+    border-width: 5px;
+    margin-bottom: 70px;
+    
+}
+
+.BUTTON_FFK {
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    height: 6px;
+    line-height: 6px;
+    color: #FFFFFF;
+    font-family: 'Montserrat';
+    width: 185px;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 20px;
+    background-color: #3D94F6;
+    border: solid #337FED 0px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-bottom: 50px;
+    }
+    
+    .BUTTON_FFK:hover {
+    background: #1E62D0;
+    border: solid #000000 0px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    text-decoration: none;
+    }
+
+    .rodape {
+        color: cornsilk;
+        margin-bottom: 0;
+        padding-bottom: 45px;
+    }
+
+    .footer-link{
+        padding: 10px;
+        text-decoration: none;
+        color: darkcyan;
+    }
+
+    .footer-link:hover {
+        color: beige;
+    }
+
+
+
+
+
+
